@@ -14,6 +14,7 @@
     <body>
         <form method="POST" action="note">
         <h1>Edit Note</h1>
+        <br>
        <main>
            <label>Title</label>
            <input type="text " name="title" value="${title}">
